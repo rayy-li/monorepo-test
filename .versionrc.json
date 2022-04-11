@@ -1,0 +1,22 @@
+{
+  "packageFiles": [
+    {
+      "filename": "packages/package1/package.json",
+      "type": "json"
+    },
+    {
+      "filename": "packages/package2/package.json",
+      "type": "json"
+    }
+  ],
+  "bumpFiles": [
+    {
+      "filename": "packages/package1/package.json",
+      "type": "json"
+    },
+    {
+      "filename": "packages/package2/package.json",
+      "type": "json"
+    }
+  ]
+}
